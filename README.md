@@ -1,2 +1,7 @@
-# Library-management-system-using-MySQL
-The Library Management System is a database-driven application designed to manage library operations efficiently using MySQL. It streamlines tasks like book inventory management, member registration, book borrowing, and return tracking. 
+# Library Management System using SQL Project --P2
+
+## Project Overview
+
+**Project Title**: Library Management System  
+**Level**: Intermediate  
+**Database**: 
